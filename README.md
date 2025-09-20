@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbdda03e-73ef-4e36-8a0e-e3e4aafbc870" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db7abdeb-e493-45ef-9c30-316ed362c033" /># EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP-FOR-8086
 ## Name :SANJAY K
 ## Roll no : 212223220094
 
