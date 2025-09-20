@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :SANJAY K
-Roll no : 212223220094
+## Name :SANJAY K
+## Roll no : 212223220094
 
 
 
