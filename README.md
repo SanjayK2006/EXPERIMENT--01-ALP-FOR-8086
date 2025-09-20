@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbdda03e-73ef-4e36-8a0e-e3e4aafbc870" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db7abdeb-e493-45ef-9c30-316ed362c033" /># EXPERIMENT--01-ALP-FOR-8086
 ## Name :SANJAY K
 ## Roll no : 212223220094
 
@@ -148,8 +148,70 @@ ret
 ## Output  
 <img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/0f143a47-2725-429e-b6c8-1285b2b6d038" />
 
+## AND
+### CODE
+```
+org 100h
+
+MOV AX, 1234h   
+MOV BX, 00FFh   
+
+AND AX, BX      
+
+ret
+```
+## Output
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/cdf384e7-8512-45ee-8bc9-5de38570958f" />
+
+## OR
+### CODE
+```
+org 100h
+MOV AX, 1234h   
+MOV BX, 00FFh   
+
+OR AX, BX          
+
+ret
+```
+## Output
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/05ed9894-68d6-40cf-bd5f-76e28971ad73" />
+
+## X-OR
+### CODE
+```
+org 100h
+MOV AX, 1234h   
+MOV BX, 00FFh   
+
+XOR AX, BX           
+
+ret
+```
+
+## Output
+<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/721e72a7-013d-4b4d-90ec-d776b1a902f1" />
+
+## NOT
+### CODE
+```
+org 100h
+MOV AX, 1234h   
+
+NOT AX           
+
+ret
+```
+## Output
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/fbe4626a-f01c-422c-9441-33d1eb06dcb8" />
+
+
+
+
+
 
 ## Result :
+Thus, to write and execute ALP on fundamental arithmetic and logical operations is successfully executed
  
 
 
